@@ -23,4 +23,4 @@ js (Folder)
 
 app.js (Used for final Dashboard)
 
-Please navigate directly to:   http://127.0.0.1:5500/index.html
+Please navigate directly to:   http://localhost:52330/index.html
